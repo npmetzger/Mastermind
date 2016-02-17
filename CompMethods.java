@@ -1,11 +1,11 @@
 /* Mastermind (GUI) Main.java
- * EE422C Project 6 submission by
+ * Project 6 submission by
  * Replace <...> with your actual data.
  * Charles Wang
- * cdw2594
+ * 
  * 16335
  * Nicholas Metzger
- * npm392
+ * 
  * 16350
  * Slip days used total: <1>
  * Fall 2015
